@@ -87,6 +87,8 @@ a
 
 ---
 
+---
+
 ## فایل های دانلود شده در گیتهاب شما :
 
 1. [DVWA-1.0.7](https://github.com/AydinSardari/downloader/tree/main/downloads/DVWA-1.0.7)
@@ -100,5 +102,7 @@ a
 5. [bee-box_v1.6_star_2157](https://github.com/AydinSardari/downloader/tree/main/downloads/bee-box_v1.6_star_2157)
 
 6. [download](https://github.com/AydinSardari/downloader/tree/main/downloads/download)
+
+7. [juice-shop-19.2.1_node22_win32_x64](https://github.com/AydinSardari/downloader/tree/main/downloads/juice-shop-19.2.1_node22_win32_x64)
 
 ---
